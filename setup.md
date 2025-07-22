@@ -1,4 +1,4 @@
-##System Requirements
+## System Requirements
 Please check all the systems meet the necessary requirements for kubeadm installation and correct provisioning. Check out the [Before you Begin](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/#before-you-begin) section.
 1. To check the number of CPUs (You would need **two or more**)
 ```
